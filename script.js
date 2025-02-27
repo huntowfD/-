@@ -80,7 +80,7 @@ function showFinalMessage() {
 }
 
 function redirectToNewPage() {
-    window.location.href = "https://panbap.github.io/tranbonhoanh/anh.html";
+    window.location.href = "heart.html";
 
 }
 
