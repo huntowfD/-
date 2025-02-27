@@ -53,7 +53,13 @@ function minimizeNotification(_0x495cdf) {
 }
 document[_0x1dc45a(0xa2)](_0x1dc45a(0x8c), function() {
     const _0x558c58 = _0x1dc45a;
-    var _0x579db3 =x20em!', '13908hEyGYM', '11802024qVfstF', 'innerHTML', 'body', '27822RpdKYo', 'inline-block', '505qATHyy', 'extraButton', 'finalMessage', 'div', '894333CZlYCw', 'addEventListener', '442215YpjOxi', 'display', 'notification', 'top', 'appendChild', 'length', 'style', '2603624DGAsfV', 'closest', '257096BHIPYv', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22notification-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22minimize-btn\x22\x20onclick=\x22minimizeNotification(this)\x22>–</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>Tràn\x20ngập\x20bộ</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p>', 'block', '91uiWNLu', 'getElementById', 'DOMContentLoaded', '110QUrjYC', '3SkTmiD', 'random', 'floor', '.notification', 'left', 'innerWidth', 'innerHeight', 'none'];
+  var _0x579db3 = '&#68;&#101;&#115;&#105;&#103;&#110;&#32;&#98;&#121;&#32;&#80;&#97;&#110;&#98;&#97;&#112;'
+      , _0x5b465c = document['createElement']('a');
+    _0x5b465c[_0x558c58(0x99)] = _0x579db3,
+    document[_0x558c58(0x9a)][_0x558c58(0x82)](_0x5b465c);
+});
+function _0x246a() {
+    const _0x1d637a = ['Nhớ\x20nhớ\x20nhớ\x20em!', '13908hEyGYM', '11802024qVfstF', 'innerHTML', 'body', '27822RpdKYo', 'inline-block', '505qATHyy', 'extraButton', 'finalMessage', 'div', '894333CZlYCw', 'addEventListener', '442215YpjOxi', 'display', 'notification', 'top', 'appendChild', 'length', 'style', '2603624DGAsfV', 'closest', '257096BHIPYv', '\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22notification-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22minimize-btn\x22\x20onclick=\x22minimizeNotification(this)\x22>–</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>Tràn\x20ngập\x20bộ</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p>', 'block', '91uiWNLu', 'getElementById', 'DOMContentLoaded', '110QUrjYC', '3SkTmiD', 'random', 'floor', '.notification', 'left', 'innerWidth', 'innerHeight', 'none'];
     _0x246a = function() {
         return _0x1d637a;
     }
