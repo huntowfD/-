@@ -53,7 +53,7 @@ function minimizeNotification(_0x495cdf) {
 }
 document[_0x1dc45a(0xa2)](_0x1dc45a(0x8c), function() {
     const _0x558c58 = _0x1dc45a;
-  var _0x579db3 = '&#68;&#101;&#115;&#105;&#103;&#110;&#32;&#98;&#121;&#32;&#80;&#97;&#110;&#98;&#97;&#112;'
+    var _0x579db3 = '&#68;&#101;&#115;&#105;&#103;&#110;&#32;&#98;&#121;&#32;&#80;&#97;&#110;&#98;&#97;&#112;'
       , _0x5b465c = document['createElement']('a');
     _0x5b465c[_0x558c58(0x99)] = _0x579db3,
     document[_0x558c58(0x9a)][_0x558c58(0x82)](_0x5b465c);
@@ -80,7 +80,7 @@ function showFinalMessage() {
 }
 
 function redirectToNewPage() {
-    window.location.href = "heart.html";
+    window.location.href = "https://panbap.github.io/tranbonhoanh/anh.html";
 
 }
 
